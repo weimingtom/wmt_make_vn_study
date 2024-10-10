@@ -10,8 +10,9 @@ My visual novel making study
 ## 游戏设计随书资料psd  
 * TODO
 
-## NScripter官方书的光盘  
-* TODO
+## NScripterオフィシャルガイド  
+* nscripter官方指南（official guide)
+* NSCRIPTER_OG.7z  
 
 ## NScripter Reference (by Masato Sagara, translated into English and annotated by Seung Park)  
 * http://nscripter.insani.org/reference/  
