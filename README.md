@@ -25,3 +25,8 @@ My visual novel making study
 
 ## Light.vn テンプレート  
 * https://lightvn.net/project/  
+
+## NVLMaker, NVLMaker for KRKR/KAG - 3.80, 使用手册  
+* https://www.nvlmaker.net/help.html  
+* online: https://www.nvlmaker.net/manual/index.html  
+* offline (Kirikiri, TJS2, KAG3, KR2 Chinese offline doc) : krkr各种文档新手强烈推荐.rar  
