@@ -30,3 +30,12 @@ My visual novel making study
 * https://www.nvlmaker.net/help.html  
 * online: https://www.nvlmaker.net/manual/index.html  
 * offline (Kirikiri, TJS2, KAG3, KR2 Chinese offline doc) : krkr各种文档新手强烈推荐.rar  
+
+## kirikiri, KAG System Reference Contents  
+* https://kirikirikag.sourceforge.net/contents/index.html
+
+## 吉里吉里２ ドキュメント  
+* https://krkrz.github.io/krkr2doc/  
+* https://krkrz.github.io/krkr2doc/tjs2doc/contents/index.html  
+* https://krkrz.github.io/krkr2doc/kr2doc/contents/index.html
+* https://krkrz.github.io/krkr2doc/kag3doc/contents/index.html
