@@ -4,10 +4,11 @@ My visual novel making study
 ## cngal最新动态  
 * https://www.cngal.org/articles/  
 
-## live2d随书资料psd  
-* TODO
+## Live2D模型制作讲座, live2d随书资料psd  
+* 10日でマスター Live2Dモデルメイキング講座  
+* live2Dbook.zip, remi.psd  
 
-## 游戏设计随书资料psd  
+## 游戏CG设计随书资料psd  
 * TODO
 
 ## NScripterオフィシャルガイド  
