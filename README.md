@@ -8,8 +8,14 @@ My visual novel making study
 * 10日でマスター Live2Dモデルメイキング講座  
 * live2Dbook.zip, remi.psd  
 
-## 游戏CG设计随书资料psd  
-* TODO
+## 美少女角色设计, psd  
+* Game Graphics Design キャラクターCGの描き方  
+* 立绘/弓夏设计画.jpg    
+
+## PSD  
+* 169个分层超详细的psd源文件, 阿茶局
+* 日本游戏psd文件-出云阿国.zip  
+* Lum立绘纸娃娃  
 
 ## NScripterオフィシャルガイド  
 * nscripter官方指南（official guide)
