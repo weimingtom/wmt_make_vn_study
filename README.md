@@ -20,6 +20,17 @@ My visual novel making study
 ## NScripter参考手册 (by me weimingtom)  
 * https://weimingtom.github.io/wmthome/nscr/index.htm  
 
+## NScripterリファレンス  
+* http://senzogawa.s90.xrea.com/reference/NScrAPI.html  
+* http://senzogawa.s90.xrea.com/reference  
+* http://senzogawa.s90.xrea.com/reference/NScrLuaAPI.html  
+* http://senzogawa.s90.xrea.com/cheetsheet/cheetsheet.html  
+* http://senzogawa.s90.xrea.com/reference.html  
+
+## （IMP，TODO）nscripter_onscripter_kirikiri_demo  
+* projects_20241018.7z    
+* 幽冥录1.rar  
+
 ## Light.vn, 最低限コマンドでノベルゲーム制作  
 * https://wikiwiki.jp/lightvn/beginnerGP  
 
