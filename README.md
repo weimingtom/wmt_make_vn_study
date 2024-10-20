@@ -57,3 +57,8 @@ My visual novel making study
 * https://krkrz.github.io/krkr2doc/tjs2doc/contents/index.html  
 * https://krkrz.github.io/krkr2doc/kr2doc/contents/index.html
 * https://krkrz.github.io/krkr2doc/kag3doc/contents/index.html
+
+## (TOOD) RealLiveMax manual doc  
+* RealLive.chm
+* RealLiveMax_SDK_20111129_006.zip
+* (TOOD) only support japanese windows (?), need to rename html files       
