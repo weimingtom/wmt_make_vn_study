@@ -7,6 +7,13 @@ My visual novel making study
 ## Live2D模型制作讲座, live2d随书资料psd  
 * 10日でマスター Live2Dモデルメイキング講座  
 * live2Dbook.zip, remi.psd  
+```
+10日でマスター Live2Dモデルメイキング讲座
+超有趣的Live2D入门教室将2D插图制作成动态图像的软体“Live2D”世界的入门书 23
+ Live2Dの教科書 静止画イラストからつくる
+たのしいLive2Dの入門教室 快乐的Live2D入门
+https://www.moehui.com/118234.html
+```
 
 ## 美少女角色设计, psd  
 * Game Graphics Design キャラクターCGの描き方  
