@@ -64,6 +64,8 @@ https://www.moehui.com/118234.html
 * https://krkrz.github.io/krkr2doc/tjs2doc/contents/index.html  
 * https://krkrz.github.io/krkr2doc/kr2doc/contents/index.html
 * https://krkrz.github.io/krkr2doc/kag3doc/contents/index.html
+* https://www.nvlmaker.net/manual/docs/kag3doc/contents/index.html  
+* https://hydrozoa.felisworks.com/doc/KAG3Doc/contents/index.html  
 
 ## (TOOD) RealLiveMax manual doc  
 * RealLive.chm
