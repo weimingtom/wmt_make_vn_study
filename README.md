@@ -65,9 +65,17 @@ https://www.moehui.com/118234.html
 * https://krkrz.github.io/krkr2doc/kr2doc/contents/index.html
 * https://krkrz.github.io/krkr2doc/kag3doc/contents/index.html
 * https://www.nvlmaker.net/manual/docs/kag3doc/contents/index.html  
-* https://hydrozoa.felisworks.com/doc/KAG3Doc/contents/index.html  
+* https://hydrozoa.felisworks.com/doc/KAG3Doc/contents/index.html
+
+## 吉里吉里２ 文档  
+* https://kimoritama.github.io/krkr2doc-cn/kr2doc/index.html  
+* https://kimoritama.github.io/krkr2doc-cn/kag3doc/contents/index.html  
+* https://kimoritama.github.io/krkr2doc-cn/  
 
 ## (TOOD) RealLiveMax manual doc  
 * RealLive.chm
 * RealLiveMax_SDK_20111129_006.zip
 * (TOOD) only support japanese windows (?), need to rename html files       
+
+## CatSystem2 マニュアル  
+* http://cs2.suki.jp/manual/  
