@@ -79,3 +79,7 @@ https://www.moehui.com/118234.html
 
 ## CatSystem2 マニュアル  
 * http://cs2.suki.jp/manual/  
+
+## What is Visual Novel Maker? 什么是视觉小说制作器？  
+* https://asset.visualnovelmaker.com/help/index.htm
+* https://klsdf.github.io/Visual-Novel-Maker-in-Chinese
