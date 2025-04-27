@@ -1,6 +1,66 @@
 # wmt_make_vn_study
 My visual novel making study
 
+## NScripterオフィシャルガイド  
+* nscripter官方指南（official guide)
+* NSCRIPTER_OG.7z  
+
+## NScripter Reference (by Masato Sagara, translated into English and annotated by Seung Park)  
+* http://nscripter.insani.org/reference/  
+
+## NScripter参考手册 (by me weimingtom)  
+* https://weimingtom.github.io/wmthome/nscr/index.htm  
+
+## NScripterリファレンス  
+* http://senzogawa.s90.xrea.com/reference/NScrAPI.html  
+* http://senzogawa.s90.xrea.com/reference  
+* http://senzogawa.s90.xrea.com/reference/NScrLuaAPI.html  
+* http://senzogawa.s90.xrea.com/cheetsheet/cheetsheet.html  
+* http://senzogawa.s90.xrea.com/reference.html  
+
+## kirikiri, KAG System Reference Contents  
+* https://kirikirikag.sourceforge.net/contents/index.html
+
+## 吉里吉里２ ドキュメント  
+* https://krkrz.github.io/krkr2doc/  
+* https://krkrz.github.io/krkr2doc/tjs2doc/contents/index.html  
+* https://krkrz.github.io/krkr2doc/kr2doc/contents/index.html
+* https://krkrz.github.io/krkr2doc/kag3doc/contents/index.html
+* https://www.nvlmaker.net/manual/docs/kag3doc/contents/index.html  
+* https://hydrozoa.felisworks.com/doc/KAG3Doc/contents/index.html
+
+## 吉里吉里２ 文档  
+* https://kimoritama.github.io/krkr2doc-cn/kr2doc/index.html  
+* https://kimoritama.github.io/krkr2doc-cn/kag3doc/contents/index.html  
+* https://kimoritama.github.io/krkr2doc-cn/  
+
+## NVLMaker, NVLMaker for KRKR/KAG - 3.80, 使用手册  
+* https://www.nvlmaker.net/help.html  
+* online: https://www.nvlmaker.net/manual/index.html  
+* offline (Kirikiri, TJS2, KAG3, KR2 Chinese offline doc) : krkr各种文档新手强烈推荐.rar  
+
+## Light.vn, 最低限コマンドでノベルゲーム制作  
+* https://wikiwiki.jp/lightvn/beginnerGP  
+
+## Light.vn テンプレート  
+* https://lightvn.net/project/  
+
+## (TOOD) RealLiveMax manual doc  
+* RealLive.chm
+* RealLiveMax_SDK_20111129_006.zip
+* (TOOD) only support japanese windows (?), need to rename html files       
+
+## CatSystem2 マニュアル  
+* http://cs2.suki.jp/manual/  
+
+## What is Visual Novel Maker? 什么是视觉小说制作器？  
+* https://asset.visualnovelmaker.com/help/index.htm
+* https://klsdf.github.io/Visual-Novel-Maker-in-Chinese
+
+## （IMP，TODO）nscripter_onscripter_kirikiri_demo  
+* projects_20241018.7z    
+* 幽冥录1.rar  
+
 ## cngal最新动态  
 * https://www.cngal.org/articles/  
 
@@ -23,63 +83,3 @@ https://www.moehui.com/118234.html
 * 169个分层超详细的psd源文件, 阿茶局
 * 日本游戏psd文件-出云阿国.zip  
 * Lum立绘纸娃娃  
-
-## NScripterオフィシャルガイド  
-* nscripter官方指南（official guide)
-* NSCRIPTER_OG.7z  
-
-## NScripter Reference (by Masato Sagara, translated into English and annotated by Seung Park)  
-* http://nscripter.insani.org/reference/  
-
-## NScripter参考手册 (by me weimingtom)  
-* https://weimingtom.github.io/wmthome/nscr/index.htm  
-
-## NScripterリファレンス  
-* http://senzogawa.s90.xrea.com/reference/NScrAPI.html  
-* http://senzogawa.s90.xrea.com/reference  
-* http://senzogawa.s90.xrea.com/reference/NScrLuaAPI.html  
-* http://senzogawa.s90.xrea.com/cheetsheet/cheetsheet.html  
-* http://senzogawa.s90.xrea.com/reference.html  
-
-## （IMP，TODO）nscripter_onscripter_kirikiri_demo  
-* projects_20241018.7z    
-* 幽冥录1.rar  
-
-## Light.vn, 最低限コマンドでノベルゲーム制作  
-* https://wikiwiki.jp/lightvn/beginnerGP  
-
-## Light.vn テンプレート  
-* https://lightvn.net/project/  
-
-## NVLMaker, NVLMaker for KRKR/KAG - 3.80, 使用手册  
-* https://www.nvlmaker.net/help.html  
-* online: https://www.nvlmaker.net/manual/index.html  
-* offline (Kirikiri, TJS2, KAG3, KR2 Chinese offline doc) : krkr各种文档新手强烈推荐.rar  
-
-## kirikiri, KAG System Reference Contents  
-* https://kirikirikag.sourceforge.net/contents/index.html
-
-## 吉里吉里２ ドキュメント  
-* https://krkrz.github.io/krkr2doc/  
-* https://krkrz.github.io/krkr2doc/tjs2doc/contents/index.html  
-* https://krkrz.github.io/krkr2doc/kr2doc/contents/index.html
-* https://krkrz.github.io/krkr2doc/kag3doc/contents/index.html
-* https://www.nvlmaker.net/manual/docs/kag3doc/contents/index.html  
-* https://hydrozoa.felisworks.com/doc/KAG3Doc/contents/index.html
-
-## 吉里吉里２ 文档  
-* https://kimoritama.github.io/krkr2doc-cn/kr2doc/index.html  
-* https://kimoritama.github.io/krkr2doc-cn/kag3doc/contents/index.html  
-* https://kimoritama.github.io/krkr2doc-cn/  
-
-## (TOOD) RealLiveMax manual doc  
-* RealLive.chm
-* RealLiveMax_SDK_20111129_006.zip
-* (TOOD) only support japanese windows (?), need to rename html files       
-
-## CatSystem2 マニュアル  
-* http://cs2.suki.jp/manual/  
-
-## What is Visual Novel Maker? 什么是视觉小说制作器？  
-* https://asset.visualnovelmaker.com/help/index.htm
-* https://klsdf.github.io/Visual-Novel-Maker-in-Chinese
