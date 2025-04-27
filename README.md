@@ -1,12 +1,6 @@
 # wmt_make_vn_study
 My visual novel making study
 
-## NScripter Reference (by Masato Sagara, translated into English and annotated by Seung Park)  
-* http://nscripter.insani.org/reference/  
-
-## NScripter参考手册 (by me weimingtom)  
-* https://weimingtom.github.io/wmthome/nscr/index.htm  
-
 ## NScripterリファレンス  
 * http://senzogawa.s90.xrea.com/reference/NScrAPI.html  
 * http://senzogawa.s90.xrea.com/reference  
@@ -14,8 +8,11 @@ My visual novel making study
 * http://senzogawa.s90.xrea.com/cheetsheet/cheetsheet.html  
 * http://senzogawa.s90.xrea.com/reference.html  
 
-## kirikiri, KAG System Reference Contents  
-* https://kirikirikag.sourceforge.net/contents/index.html
+## NScripter Reference (by Masato Sagara, translated into English and annotated by Seung Park)  
+* http://nscripter.insani.org/reference/  
+
+## NScripter参考手册 (by me weimingtom)  
+* https://weimingtom.github.io/wmthome/nscr/index.htm  
 
 ## 吉里吉里２ ドキュメント  
 * https://krkrz.github.io/krkr2doc/  
@@ -24,6 +21,9 @@ My visual novel making study
 * https://krkrz.github.io/krkr2doc/kag3doc/contents/index.html
 * https://www.nvlmaker.net/manual/docs/kag3doc/contents/index.html  
 * https://hydrozoa.felisworks.com/doc/KAG3Doc/contents/index.html
+
+## kirikiri, KAG System Reference Contents  
+* https://kirikirikag.sourceforge.net/contents/index.html
 
 ## 吉里吉里２ 文档  
 * https://kimoritama.github.io/krkr2doc-cn/kr2doc/index.html  
@@ -41,7 +41,7 @@ My visual novel making study
 ## Light.vn テンプレート  
 * https://lightvn.net/project/  
 
-## (TOOD) RealLiveMax manual doc  
+## (TODO) RealLiveMax manual doc  
 * RealLive.chm
 * RealLiveMax_SDK_20111129_006.zip
 * (TOOD) only support japanese windows (?), need to rename html files       
