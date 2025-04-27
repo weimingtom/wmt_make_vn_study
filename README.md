@@ -1,10 +1,6 @@
 # wmt_make_vn_study
 My visual novel making study
 
-## NScripterオフィシャルガイド  
-* nscripter官方指南（official guide)
-* NSCRIPTER_OG.7z  
-
 ## NScripter Reference (by Masato Sagara, translated into English and annotated by Seung Park)  
 * http://nscripter.insani.org/reference/  
 
@@ -56,6 +52,10 @@ My visual novel making study
 ## What is Visual Novel Maker? 什么是视觉小说制作器？  
 * https://asset.visualnovelmaker.com/help/index.htm
 * https://klsdf.github.io/Visual-Novel-Maker-in-Chinese
+
+## NScripterオフィシャルガイド  
+* nscripter官方指南（official guide)
+* NSCRIPTER_OG.7z  
 
 ## （IMP，TODO）nscripter_onscripter_kirikiri_demo  
 * projects_20241018.7z    
