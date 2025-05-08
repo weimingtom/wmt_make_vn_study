@@ -61,6 +61,10 @@ My visual novel making study
 * projects_20241018.7z    
 * 幽冥录1.rar  
 
+## Renpy
+* https://www.renpy.org/doc/html/
+* https://doc.renpy.cn/zh-CN/
+
 ## cngal最新动态  
 * https://www.cngal.org/articles/  
 
