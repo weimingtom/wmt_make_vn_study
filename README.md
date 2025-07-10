@@ -11,6 +11,11 @@ My visual novel making study
 ## NScripter Reference (by Masato Sagara, translated into English and annotated by Seung Park)  
 * http://nscripter.insani.org/reference/  
 
+## NScripter的旧版手册汉化
+* https://lalalll-lalalll.github.io/file/NScripter/index.htm
+* https://lalalll-lalalll.github.io/theme/NScripter/
+* https://tieba.baidu.com/p/9753860269
+
 ## NScripter参考手册 (by me weimingtom)  
 * https://weimingtom.github.io/wmthome/nscr/index.htm  
 
