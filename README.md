@@ -95,3 +95,7 @@ https://www.moehui.com/118234.html
 
 ## Unity用ビジュアルノベルツール「宴」  
 * https://madnesslabo.net/utage  
+
+## 虚拟主播live2d形象设计入门
+* VTuberキャラクターデザイン＆Live2D超入門 わかるLive2D動画解説付き  
+* https://www.kadokawa.co.jp/product/322409000115/
