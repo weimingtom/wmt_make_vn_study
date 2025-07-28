@@ -11,8 +11,18 @@ My visual novel making study
 ## NScripter Reference (by Masato Sagara, translated into English and annotated by Seung Park)  
 * http://nscripter.insani.org/reference/  
 
-## ONScripter-EN English Reference
+## ONScripter-EN English Reference, Nscripter API reference (hosted by chaoskaiser72)
 * https://kaisernet.org/onscripter/api/NScrAPI-framed.html  
+* https://www.vnwiki.xyz/all-platforms/onscripter-en.html
+
+## ponscripter tutorial, 07th-mod's introduction to Ponscripter
+* https://07th-mod.github.io/ponscripter-fork/  
+* https://sekaiproject.github.io/ponscripter-fork/doc/  
+* https://www.vnwiki.xyz/all-platforms/onscripter-en.html  
+
+## The ONScripter-EN Guide Pages
+* https://galladite.net/~galladite/nscripter/guide/guidepages/index.html
+* https://www.vnwiki.xyz/all-platforms/onscripter-en.html
 
 ## NScripter的旧版手册汉化
 * https://lalalll-lalalll.github.io/file/NScripter/index.htm
