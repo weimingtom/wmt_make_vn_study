@@ -12,8 +12,9 @@ My visual novel making study
 * http://nscripter.insani.org/reference/  
 
 ## ONScripter-EN English Reference, Nscripter API reference (hosted by chaoskaiser72)
-* https://kaisernet.org/onscripter/api/NScrAPI-framed.html  
-(???) Same as https://github.com/insani-org/nscripter-api-doc      
+* https://kaisernet.org/onscripter/api/NScrAPI-framed.html    
+(???) Same as https://github.com/insani-org/nscripter-api-doc       
+(my fork) https://weimingtom.github.io/nscripter-api-doc/html/NScrAPI-framed.html  
 * https://www.vnwiki.xyz/all-platforms/onscripter-en.html  
 
 ## ponscripter tutorial, 07th-mod's introduction to Ponscripter
