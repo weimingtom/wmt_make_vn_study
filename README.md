@@ -13,7 +13,8 @@ My visual novel making study
 
 ## ONScripter-EN English Reference, Nscripter API reference (hosted by chaoskaiser72)
 * https://kaisernet.org/onscripter/api/NScrAPI-framed.html  
-* https://www.vnwiki.xyz/all-platforms/onscripter-en.html
+(???) Same as https://github.com/insani-org/nscripter-api-doc      
+* https://www.vnwiki.xyz/all-platforms/onscripter-en.html  
 
 ## ponscripter tutorial, 07th-mod's introduction to Ponscripter
 * https://07th-mod.github.io/ponscripter-fork/  
