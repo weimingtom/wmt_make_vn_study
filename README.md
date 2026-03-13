@@ -50,6 +50,7 @@ My visual novel making study
 * https://kimoritama.github.io/krkr2doc-cn/kag3doc/contents/index.html  
 * https://kimoritama.github.io/krkr2doc-cn/  
 * https://www.bilibili.com/video/BV1Bux4zHES4/    
+* kagexpress学习资料  
 
 ## NVLMaker, NVLMaker for KRKR/KAG - 3.80, 使用手册  
 * https://www.nvlmaker.net/help.html  
