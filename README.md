@@ -31,6 +31,9 @@ My visual novel making study
 * https://lalalll-lalalll.github.io/theme/NScripter/
 * https://tieba.baidu.com/p/9753860269
 
+## NScripter API手册 (非官方) Ver.0.78  
+* https://chenhai.net/NScrAPI_CHS_v0.78.html
+
 ## NScripter参考手册 (by me weimingtom)  
 * https://weimingtom.github.io/wmthome/nscr/index.htm  
 
