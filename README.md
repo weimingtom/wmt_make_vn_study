@@ -119,3 +119,8 @@ https://www.moehui.com/118234.html
 ## 虚拟主播live2d形象设计入门
 * VTuberキャラクターデザイン＆Live2D超入門 わかるLive2D動画解説付き  
 * https://www.kadokawa.co.jp/product/322409000115/
+
+## Live2D Cubism Editor试用版
+* https://www.live2d.com/zh-CHS/
+* https://www.renpy.cn
+
