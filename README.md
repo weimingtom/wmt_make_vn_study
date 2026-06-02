@@ -46,7 +46,9 @@ My visual novel making study
 * https://hydrozoa.felisworks.com/doc/KAG3Doc/contents/index.html
 
 ## kirikiri, KAG System Reference Contents  
+* The English-Translated Kirikiri2/KAG3 documentation  
 * https://kirikirikag.sourceforge.net/contents/index.html
+* https://sourceforge.net/projects/kirikirikag/
 
 ## 吉里吉里２ 文档  
 * https://kimoritama.github.io/krkr2doc-cn/kr2doc/index.html  
