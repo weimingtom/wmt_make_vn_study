@@ -55,6 +55,10 @@ My visual novel making study
 * https://www.bilibili.com/video/BV1Bux4zHES4/    
 * kagexpress学习资料  
 
+## 吉里吉里2 中文手册 (very old), from krkr中文化项目    
+* https://github.com/krkr-chs/krkr2doc  
+* https://weimingtom.github.io/krkr2doc/index.html  
+
 ## NVLMaker, NVLMaker for KRKR/KAG - 3.80, 使用手册  
 * https://www.nvlmaker.net/help.html  
 * online: https://www.nvlmaker.net/manual/index.html  
