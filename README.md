@@ -75,7 +75,7 @@ My visual novel making study
 ## (TODO) RealLiveMax manual doc  
 * RealLive.chm
 * RealLiveMax_SDK_20111129_006.zip
-* (TOOD) only support japanese windows (?), need to rename html files       
+* (TODO) only support japanese windows (?), need to rename html files       
 
 ## CatSystem2 マニュアル  
 * http://cs2.suki.jp/manual/  
