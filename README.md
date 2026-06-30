@@ -66,6 +66,10 @@ My visual novel making study
 * online: https://www.nvlmaker.net/manual/index.html  
 * offline (Kirikiri, TJS2, KAG3, KR2 Chinese offline doc) : krkr各种文档新手强烈推荐.rar  
 
+## KCDDP KAGeXpress 3.0 使用手册
+* baidupan, KCDDP使用手册.txt
+* https://github.com/weimingtom/wmt_vn_study/blob/master/KCDDP_manual_001.txt  
+
 ## Light.vn, 最低限コマンドでノベルゲーム制作  
 * https://wikiwiki.jp/lightvn/beginnerGP  
 
