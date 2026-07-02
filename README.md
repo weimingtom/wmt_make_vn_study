@@ -100,6 +100,9 @@ My visual novel making study
 * https://www.renpy.org/doc/html/
 * https://doc.renpy.cn/zh-CN/
 
+## RPG Maker Default Scripts  
+* https://orzfly.github.io/RPGMakerDefaultScripts/  
+
 ## cngal最新动态  
 * https://www.cngal.org/articles/  
 
