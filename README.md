@@ -39,6 +39,7 @@ My visual novel making study
 
 ## NScripter2APICHSv0.2  
 * https://chenhai.net/NScripter2APICHSv0.2.html
+* https://github.com/xubeiyan/Nscripter2-API
 
 ## 吉里吉里２ ドキュメント  
 * https://krkrz.github.io/krkr2doc/  
