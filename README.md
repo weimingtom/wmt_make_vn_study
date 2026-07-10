@@ -37,6 +37,9 @@ My visual novel making study
 ## NScripter参考手册 (by me weimingtom)  
 * https://weimingtom.github.io/wmthome/nscr/index.htm  
 
+## NScripter2APICHSv0.2  
+* https://chenhai.net/NScripter2APICHSv0.2.html
+
 ## 吉里吉里２ ドキュメント  
 * https://krkrz.github.io/krkr2doc/  
 * https://krkrz.github.io/krkr2doc/tjs2doc/contents/index.html  
