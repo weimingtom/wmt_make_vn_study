@@ -65,6 +65,10 @@ My visual novel making study
 * https://github.com/krkr-chs/krkr2doc  
 * https://weimingtom.github.io/krkr2doc/index.html  
 
+## 吉里吉里2 中文手册, from https://github.com/krkr-chs/krkr2doc  
+* https://kimoritama.github.io/krkr2doc-cn/  
+* https://github.com/KimoriTama/krkr2doc-cn  
+
 ## NVLMaker, NVLMaker for KRKR/KAG - 3.80, 使用手册  
 * https://www.nvlmaker.net/help.html  
 * online: https://www.nvlmaker.net/manual/index.html  
