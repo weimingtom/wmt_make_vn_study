@@ -82,6 +82,9 @@ My visual novel making study
 * baidupan, KCDDP使用手册.txt
 * https://github.com/weimingtom/wmt_vn_study/blob/master/KCDDP_manual_001.txt  
 
+## かわずと！第19回放送『吉里吉里講座』スライド
+* https://www.slideshare.net/slideshow/19-8345768/8345768  
+
 ## Light.vn, 最低限コマンドでノベルゲーム制作  
 * https://wikiwiki.jp/lightvn/beginnerGP  
 
