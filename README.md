@@ -85,6 +85,9 @@ My visual novel making study
 ## かわずと！第19回放送『吉里吉里講座』スライド
 * https://www.slideshare.net/slideshow/19-8345768/8345768  
 
+## Kirikiri Z documentation, translated to English using Gemini 3  
+* https://krkren.github.io  
+
 ## Light.vn, 最低限コマンドでノベルゲーム制作  
 * https://wikiwiki.jp/lightvn/beginnerGP  
 
