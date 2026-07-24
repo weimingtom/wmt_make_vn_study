@@ -155,3 +155,9 @@ https://www.moehui.com/118234.html
 * https://www.live2d.com/zh-CHS/
 * https://www.renpy.cn
 
+## Godot 游戏引擎 v3.4 中文文档
+* https://www.bookstack.cn/read/Godot-3.4-zh/04a438fa5ea9e261.md
+
+## GDScript reference
+* https://docs.godotengine.org/en/stable/tutorials/scripting/gdscript/gdscript_basics.html
+
