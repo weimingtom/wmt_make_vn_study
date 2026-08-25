@@ -88,6 +88,12 @@ My visual novel making study
 ## Kirikiri Z documentation, translated to English using Gemini 3  
 * https://krkren.github.io  
 
+## 吉里吉里/KAGノベルゲーム制作入門  
+* https://wikiwiki.jp/gutchie/吉里吉里プラグインに関するメモ
+* https://wikiwiki.jp/gutchie/吉里吉里プラグインに関するメモ/csvParser.dll
+* https://tieba.baidu.com/p/9757337150  
+有没有使用csv表格的教程  
+
 ## Light.vn, 最低限コマンドでノベルゲーム制作  
 * https://wikiwiki.jp/lightvn/beginnerGP  
 
