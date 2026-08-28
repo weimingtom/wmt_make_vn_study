@@ -94,6 +94,13 @@ My visual novel making study
 * https://tieba.baidu.com/p/9757337150  
 有没有使用csv表格的教程  
 
+## Hydrozoa系生物养成
+* https://hydrozoa.felisworks.com/krkrgames.php
+* 有很多教程和示例代码  
+* https://hydrozoa.felisworks.com/doc/KAG3Doc/contents/index.html  
+* https://hydrozoa.felisworks.com/doc/tjs2doc/contents/index.html  
+* (未翻译？) https://hydrozoa.felisworks.com/doc/kr2doc/contents/index.html  
+
 ## Light.vn, 最低限コマンドでノベルゲーム制作  
 * https://wikiwiki.jp/lightvn/beginnerGP  
 
