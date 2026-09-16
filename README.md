@@ -52,7 +52,8 @@ My visual novel making study
 ## 吉里吉里２ Plugins, tp_stub (third party stub)    
 * https://krkrz.github.io/krkr2doc/kr2doc/contents/Plugins.html  
 * http://keepcreating.g2.xrea.com/DojinDOC/HowToWriteKrkrPlugin.html  
-* https://kcddp.keyfc.com/bbs/viewthread.php?tid=273&sid=owzQQD  
+* https://kcddp.keyfc.com/bbs/viewthread.php?tid=273&sid=owzQQD
+* https://zhuanlan.zhihu.com/p/666252284  
 
 ## kirikiri, KAG System Reference Contents  
 * The English-Translated Kirikiri2/KAG3 documentation  
