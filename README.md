@@ -49,6 +49,10 @@ My visual novel making study
 * https://www.nvlmaker.net/manual/docs/kag3doc/contents/index.html  
 * https://hydrozoa.felisworks.com/doc/KAG3Doc/contents/index.html
 
+## 吉里吉里２ Plugins
+* https://krkrz.github.io/krkr2doc/kr2doc/contents/Plugins.html  
+* http://keepcreating.g2.xrea.com/DojinDOC/HowToWriteKrkrPlugin.html  
+
 ## kirikiri, KAG System Reference Contents  
 * The English-Translated Kirikiri2/KAG3 documentation  
 * https://kirikirikag.sourceforge.net/contents/index.html
